@@ -15,7 +15,7 @@ This project solves Georgia State University CSC 4210/6210 Processor Design Seme
 - `logic_core.py`: truth-table validation, canonical SOP/POS generation, simplification helpers, and validation
 - `kmap.py`: K-map layout and grouping output for 2-4 variables
 - `samples/`: example truth tables for demos
-- `tests/`: automated tests
+- `test_task2.py`: automated tests
 
 ## Input Format
 
